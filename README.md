@@ -20,7 +20,7 @@ Sou estudante de Bacharelado em Tecnologia da Informação pela UNIVESP e atuo c
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Python, JavaScript, SQL, Verse, Delphi.
+* **Linguagens:** Python, JavaScript, SQL, Delphi.
 * **Nuvem & FinOps:** AWS, Azure, Docker, Linux (Ubuntu), Otimização de Custos (Serverless/Containers).
 * **Automação & Ferramentas:** Git/GitHub Actions, Selenium, AutoHotkey (AHK v2), n8n, Google Apps Script.
 
