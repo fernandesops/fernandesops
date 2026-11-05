@@ -35,6 +35,6 @@ Sou estudante de Bacharelado em Tecnologia da Informação pela UNIVESP e atuo c
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,aws,azure,docker,linux,godot,github,githubactions,vscode&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,js,aws,azure,docker,linux,github,githubactions,vscode&theme=dark&perline=5" />
   </a>
 </div>
