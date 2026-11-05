@@ -31,9 +31,10 @@ Sou estudante de Bacharelado em Tecnologia da Informação pela UNIVESP e atuo c
 * **Gemini Discord Bot:** Bot para Discord desenvolvido em Python e integrado diretamente com a API do Google Gemini para respostas automatizadas.
 * **Automações de Rotina:** Desenvolvimento contínuo de scripts em AHK v2 e Python para simplificar o uso do desktop e extrair dados da web.
 
-## 📊 Estatísticas
+## 🛠️ Minha Caixa de Ferramentas
 
 <div align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=fernandesops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesops&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,aws,azure,docker,linux,godot,github,githubactions,vscode&theme=dark&perline=5" />
+  </a>
 </div>
